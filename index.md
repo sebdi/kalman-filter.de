@@ -18,7 +18,7 @@ Das Buch ist geeignet für interessierte Bachelor-Studierende oder Master-Studie
 
 *Reiner Marchthaler und Sebastian Dingler. Kalman-Filter: Einführung in die Zustandsschätzung und ihre Anwendung für eingebettete Systeme. Springer Vieweg, 2017.*
 
-`@Book{CloudComputingPatterns2014,
+`@Book{KalmanFilter2017,
   author    = "Marchthaler, Reiner and Dingler, Sebastian",
   title     = "Kalman-Filter: Einführung in die Zustandsschätzung und ihre Anwendung für eingebettete Systeme",
   publisher = "Springer Vieweg",
