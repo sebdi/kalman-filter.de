@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: rouge
 
 google_analytics_id: UA-11372017-15
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+google_site_verification: jiP2R2ChVswrFQDh4LRw5k5jBfEwbB90ejGhLmkVL7o
 
 repository: https://github.com/sebdi/kalman-filter.de
 help_url: https://github.com/jekyll/jekyll-help
