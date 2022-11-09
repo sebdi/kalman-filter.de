@@ -18,7 +18,7 @@ collections:
 
 name: Kalman-Filter
 description: Webseite zum Kalman-Filter Buch
-url: http://www.kalman-filter.de
+url: https://kalman-filter.de
 
 logo: /img/logo-2x.png
 
